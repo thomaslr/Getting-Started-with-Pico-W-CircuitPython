@@ -1,4 +1,4 @@
-# Getting-Started-with-Pico-W-CircuitPython  
+# Getting Started with Pico W CircuitPython  
 
 If you are new to CircuitPython and want to get started quickly, you are in the right place! Here you will find all the information you need to set up your hardware and software and start coding with the Raspberry Pi Pico W.
 
