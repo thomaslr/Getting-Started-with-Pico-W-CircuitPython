@@ -18,4 +18,4 @@ For more information on the Raspberry Pi Pico W, check out the datasheet here:
 [Raspberry Pi Pico W Datasheet](https://datasheets.raspberrypi.com/picow/pico-w-datasheet.pdf)  
 
 ## Support  
-If you need further assistance, we welcome you to our [technical forum](http://forum.cytron.io) where our team will be happy to assist you.
+If you need further assistance, please email to technical team (support@cytron.io) and our team will be happy to assist you.
