@@ -8,7 +8,7 @@ You can visit [Getting Started with Pico W (CircuitPython)](https://docs.google.
 To get started, you will need the following hardware and software:  
 
 **Hardware:**  
-* Pico W Student Kit - CircuitPython for Beginner   
+* [Pico W Student Kit - CircuitPython for Beginner](https://my.cytron.io/p-pico-w-student-kit-circuitpython-for-beginner)   
 
 **Software:**  
 * [Thonny IDE](https://thonny.org/)  
