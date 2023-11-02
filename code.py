@@ -66,4 +66,4 @@ while True:
     except RuntimeError:
         print("Retrying!")
         pass
-    time.sleep(0.1)
+    time.sleep(0.5)
